@@ -5,3 +5,7 @@
 body {
     background-color: #000;
 }
+
+button:active {
+    background-color: rgb(8 145 178);
+}
